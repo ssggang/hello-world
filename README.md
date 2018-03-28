@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi friends
+my name is sourabh singh guleria and iam a college student
